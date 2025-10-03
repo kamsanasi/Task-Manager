@@ -23,6 +23,10 @@ This app allows users to register/login and then perform **CRUD operations on ta
 - **Database:** MySQL  
 - **Authentication:** JWT & bcrypt
 
+## 🔐 Login Credentials
+
+- **Admin: username=Admin, password=admin**
+- **User: username=kkk, password=kkk**
 
 ## 🌟 Future Enhancements
 
